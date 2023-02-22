@@ -1,0 +1,9 @@
+
+# Don't store pdf files
+*.pdf
+
+# NodeJS
+node_modules
+
+# MAC Related
+.DS_Store
